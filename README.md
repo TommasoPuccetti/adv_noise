@@ -43,12 +43,65 @@ ____RUN DETECTORS AND CREATE THE FINAL DATASET____
 run 
 	"python explode_atk.py"
 
-The scripts takes the file path of a csv file obtained after the generation of an attack set and computes both L-norms and iamge quality metrics on all the images in the attack set. It also exercise both Magnet and Squeezer detectors on each image. The output csv file associate, for each image of each attack set, the metrics and the detection label of both the detectors. 
+The script takes the file path of a csv file obtained after the generation of an attack set and computes both L-norms and iamge quality metrics on all the images in the attack set. It also exercise both Magnet and Squeezer detectors on each image. The output csv file associate, for each image of each attack set, the metrics and the detection label of both the detectors. 
 	
 The path of the "output_csv" can be changed in the code to indicate a specific output file. 
 
+____PREDICT THE SUCCESS RATE OF THE ATTACK____
 
+A regression analysis to predict the success rate of an attack using distance metrics as input features. Noticeably, the regressor can predict accurately the success rate of the attack by solely relying on distance metrics. 
 
+run
+   	"predict_success_rate.py"
+
+The script take the file path of the final tabular dataset and predicts the success rate of the attack for a specific configuration, using the distance metrics computed on a sample image. The script take as input a csv file that specifies the experiment configuration (feature of the tabular dataset to be used for the prediction). 
+
+	Parameters:
+		-tabular_dataset
+		-experiment_configurations
+		-output_folder
+		
+The scripts generate in the output folder the 3 files for each experiment defined in experiment_configurations csv:
+	
+	- Results for each attack configurations ("*packets.csv")
+	- Results for each attack type ("*attacks.csv")
+	- Results for all the images ("*all.csv")
+	
+	PREDICT THE SUCCESS RATE UNKNOWN
+		We repeat the study by training the regressor multiple times using adversarial images generated from the same attack, and testing on adversarial images generated using the other attacks. This shows the mutual predictability of the success rate between attacks, which we can use to understand if two attacks are similar.
+	
+	run
+		"loo_predict_success_rate.py"
+	
+	The script is a modified version of the predict_success_rate.py and can be exercised using the same input parameters
+	
+____PREDICT THE DETECTION OUTPUT OF THE DETECTORS____
+
+A binary classification analysis to predict the detection of an attack using as input features the distance metrics, using 2 detectors from the state of the art. Attacks with similar distance metrics values are predicted to be detected similarly by a defense.
+
+run
+   	"predict_detector_output.py"
+
+The script take the file path of the final tabular dataset and predicts the detector output for a given adversarial image, using the distance metrics computed on a sample image. The script take as input a csv file that specifies the experiment configuration (feature of the tabular dataset to be used for the prediction). 
+
+	Parameters:
+		-tabular_dataset
+		-experiment_configurations
+		-output_folder
+		
+The scripts generate in the output folder the 3 files for each experiment defined in experiment_configurations csv:
+	
+	- Results for each attack configurations ("*packets.csv")
+	- Results for each attack type ("*attacks.csv")
+	- Results for all the images ("*all.csv")	
+
+	PREDICT THE DETECTION OUTPUT UNKNOWN
+		We repeat the study by training the classifier multiple times using adversarial images generated from the same attack, and testing on adversarial images generated using the other attacks. This shows the mutual predictability of the detection output between attacks, which we can use to understand if two attacks are similar.
+
+	run
+		"loo_predict_detector_output.py"
+	
+	The script is a modified version of the predict_detector_output.py and can be exercised using the same input parameters.
 
 ____DETECTORS____
 
