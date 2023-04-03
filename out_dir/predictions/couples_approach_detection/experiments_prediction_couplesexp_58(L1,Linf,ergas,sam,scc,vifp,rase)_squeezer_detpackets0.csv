@@ -1,0 +1,18 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_58,squeezer_det,L1 Linf ergas sam scc vifp rase,cw250.0100_succ,gen_list_3,cw2,cifar,,conv12,0.0
+exp_58,squeezer_det,L1 Linf ergas sam scc vifp rase,cw240.0100_succ,gen_list_3,cw2,cifar,,conv12,0.0
+exp_58,squeezer_det,L1 Linf ergas sam scc vifp rase,cw230.0100_succ,gen_list_3,cw2,cifar,,conv12,0.0
+exp_58,squeezer_det,L1 Linf ergas sam scc vifp rase,cw220.0100_succ,gen_list_3,cw2,cifar,,conv12,0.0
+exp_58,squeezer_det,L1 Linf ergas sam scc vifp rase,cw215.0100_succ,gen_list_3,cw2,cifar,,conv12,0.0
+exp_58,squeezer_det,L1 Linf ergas sam scc vifp rase,cw210.0100_succ,gen_list_3,cw2,cifar,,conv12,0.11764705882352941
+exp_58,squeezer_det,L1 Linf ergas sam scc vifp rase,cw25.0100_succ,gen_list_3,cw2,cifar,,conv12,0.9411764705882353
+exp_58,squeezer_det,L1 Linf ergas sam scc vifp rase,cw21.0100_succ,gen_list_3,cw2,cifar,,conv12,1.0
+exp_58,squeezer_det,L1 Linf ergas sam scc vifp rase,cw210.010_succ,gen_list_3,cw2,cifar,,conv12,0.11764705882352941
+exp_58,squeezer_det,L1 Linf ergas sam scc vifp rase,cw210.030_succ,gen_list_3,cw2,cifar,,conv12,0.11764705882352941
+exp_58,squeezer_det,L1 Linf ergas sam scc vifp rase,cw210.050_succ,gen_list_3,cw2,cifar,,conv12,0.11764705882352941
+exp_58,squeezer_det,L1 Linf ergas sam scc vifp rase,cw210.060_succ,gen_list_3,cw2,cifar,,conv12,0.11764705882352941
+exp_58,squeezer_det,L1 Linf ergas sam scc vifp rase,cw210.080_succ,gen_list_3,cw2,cifar,,conv12,0.11764705882352941
+exp_58,squeezer_det,L1 Linf ergas sam scc vifp rase,cw210.0200_succ,gen_list_3,cw2,cifar,,conv12,0.11764705882352941
+exp_58,squeezer_det,L1 Linf ergas sam scc vifp rase,cw210.0500_succ,gen_list_3,cw2,cifar,,conv12,0.11764705882352941
+exp_58,squeezer_det,L1 Linf ergas sam scc vifp rase,cw210.0800_succ,gen_list_3,cw2,cifar,,conv12,0.11764705882352941
+exp_58,squeezer_det,L1 Linf ergas sam scc vifp rase,cw210.01000_succ,gen_list_3,cw2,cifar,,conv12,0.11764705882352941

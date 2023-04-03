@@ -1,0 +1,16 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC
+exp_57,squeezer_det,L1 Linf ergas sam scc vifp rase,deep10.0100_succ,gen_list_1,deep,cifar,conv12,0.9375,0.0
+exp_57,squeezer_det,L1 Linf ergas sam scc vifp rase,deep8.0100_succ,gen_list_1,deep,cifar,conv12,0.9625,0.0
+exp_57,squeezer_det,L1 Linf ergas sam scc vifp rase,deep6.0100_succ,gen_list_1,deep,cifar,conv12,0.9523809523809523,-0.021124141684149264
+exp_57,squeezer_det,L1 Linf ergas sam scc vifp rase,deep4.0100_succ,gen_list_1,deep,cifar,conv12,0.9518072289156626,0.0
+exp_57,squeezer_det,L1 Linf ergas sam scc vifp rase,deep2.0100_succ,gen_list_1,deep,cifar,conv12,0.9294117647058824,-0.03449557892028146
+exp_57,squeezer_det,L1 Linf ergas sam scc vifp rase,deep0.0100_succ,gen_list_1,deep,cifar,conv12,0.9859154929577465,0.0
+exp_57,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.010_succ,gen_list_1,deep,cifar,conv12,0.9404761904761905,-0.03005565448891441
+exp_57,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.030_succ,gen_list_1,deep,cifar,conv12,0.9404761904761905,-0.03005565448891441
+exp_57,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.050_succ,gen_list_1,deep,cifar,conv12,0.9404761904761905,-0.03005565448891441
+exp_57,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.070_succ,gen_list_1,deep,cifar,conv12,0.9404761904761905,-0.03005565448891441
+exp_57,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.090_succ,gen_list_1,deep,cifar,conv12,0.9404761904761905,-0.03005565448891441
+exp_57,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.0100_succ,gen_list_1,deep,cifar,conv12,0.9404761904761905,-0.03005565448891441
+exp_57,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.0150_succ,gen_list_1,deep,cifar,conv12,0.9404761904761905,-0.03005565448891441
+exp_57,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.0200_succ,gen_list_1,deep,cifar,conv12,0.9404761904761905,-0.03005565448891441
+exp_57,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.0300_succ,gen_list_1,deep,cifar,conv12,0.9404761904761905,-0.03005565448891441

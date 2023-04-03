@@ -1,0 +1,11 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC
+exp_205,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,zoo11010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.6349206349206349,-0.0930301170323837
+exp_205,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,zoo12010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.6164383561643836,-0.16850509274845388
+exp_205,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,zoo13010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.68,-0.1272937693043289
+exp_205,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,zoo14010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.6282051282051282,-0.17447464086340458
+exp_205,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,zoo15010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.6282051282051282,-0.18667748886377503
+exp_205,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,zoo16010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.625,-0.17407765595569785
+exp_205,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,zoo17010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.675,-0.14129296641852573
+exp_205,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,zoo18010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.6049382716049383,-0.2148086454164219
+exp_205,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,zoo19010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.6842105263157895,-0.12526435309740588
+exp_205,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,zoo20010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.6923076923076923,-0.13652592788242301

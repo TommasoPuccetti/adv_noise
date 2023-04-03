@@ -1,0 +1,2 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_86,success_rate,L2 L1 Linf uqi sam rase psnrb,jsma0.0011.0_succ,gen_list_jsma,jsma,cifar,,conv12,0.07299029086526236

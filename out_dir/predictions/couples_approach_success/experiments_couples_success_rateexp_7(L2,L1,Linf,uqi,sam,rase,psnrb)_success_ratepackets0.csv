@@ -1,0 +1,17 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_7,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo11010.0_succ,gen_list_zoo,zoo,cifar,,conv12,0.22858991472605852
+exp_7,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo11010.0_miss,gen_list_zoo,zoo,cifar,,conv12,0.4333875595895405
+exp_7,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo12010.0_succ,gen_list_zoo,zoo,cifar,,conv12,0.30029608188158713
+exp_7,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo12010.0_miss,gen_list_zoo,zoo,cifar,,conv12,0.5256293830339039
+exp_7,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo13010.0_succ,gen_list_zoo,zoo,cifar,,conv12,0.30484895012272506
+exp_7,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo14010.0_succ,gen_list_zoo,zoo,cifar,,conv12,0.35065835132410755
+exp_7,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo14010.0_miss,gen_list_zoo,zoo,cifar,,conv12,0.13744288192075838
+exp_7,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo15010.0_succ,gen_list_zoo,zoo,cifar,,conv12,0.3552711126358379
+exp_7,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo15010.0_miss,gen_list_zoo,zoo,cifar,,conv12,0.07344936833662141
+exp_7,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo16010.0_succ,gen_list_zoo,zoo,cifar,,conv12,0.3615202090905833
+exp_7,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo17010.0_succ,gen_list_zoo,zoo,cifar,,conv12,0.35574536746245994
+exp_7,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo18010.0_succ,gen_list_zoo,zoo,cifar,,conv12,0.3626370114473457
+exp_7,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo18010.0_miss,gen_list_zoo,zoo,cifar,,conv12,0.17273699956781718
+exp_7,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo19010.0_succ,gen_list_zoo,zoo,cifar,,conv12,0.32752364380450455
+exp_7,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo19010.0_miss,gen_list_zoo,zoo,cifar,,conv12,0.11391347015605258
+exp_7,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo20010.0_succ,gen_list_zoo,zoo,cifar,,conv12,0.32707742684617247

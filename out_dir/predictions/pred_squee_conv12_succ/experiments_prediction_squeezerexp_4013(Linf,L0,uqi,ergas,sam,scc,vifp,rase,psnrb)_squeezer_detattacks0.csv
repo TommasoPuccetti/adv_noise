@@ -1,0 +1,13 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_4013,squeezer_det,Linf L0 uqi ergas sam scc vifp rase psnrb,uni20.01000.2inf_succ,gen_list_1,bim,cifar,,conv12,0.8491048593350383
+exp_4013,squeezer_det,Linf L0 uqi ergas sam scc vifp rase psnrb,uni20.01000.2inf_succ,gen_list_1,fgm,cifar,,conv12,0.9126984126984127
+exp_4013,squeezer_det,Linf L0 uqi ergas sam scc vifp rase psnrb,uni20.01000.2inf_succ,gen_list_1,deep,cifar,,conv12,0.8446215139442231
+exp_4013,squeezer_det,Linf L0 uqi ergas sam scc vifp rase psnrb,uni20.01000.2inf_succ,gen_list_3,cw2,cifar,,conv12,0.43944636678200694
+exp_4013,squeezer_det,Linf L0 uqi ergas sam scc vifp rase psnrb,uni20.01000.2inf_succ,gen_list_boundary,boundary,cifar,,conv12,0.9669669669669669
+exp_4013,squeezer_det,Linf L0 uqi ergas sam scc vifp rase psnrb,uni20.01000.2inf_succ,gen_list_elastic,elastic,cifar,,conv12,1.0
+exp_4013,squeezer_det,Linf L0 uqi ergas sam scc vifp rase psnrb,uni20.01000.2inf_succ,gen_list_newton,newton,cifar,,conv12,0.8513931888544891
+exp_4013,squeezer_det,Linf L0 uqi ergas sam scc vifp rase psnrb,uni20.01000.2inf_succ,gen_list_pgd,pgd,cifar,,conv12,0.978328173374613
+exp_4013,squeezer_det,Linf L0 uqi ergas sam scc vifp rase psnrb,uni20.01000.2inf_succ,gen_list_zoo,zoo,cifar,,conv12,0.9259259259259259
+exp_4013,squeezer_det,Linf L0 uqi ergas sam scc vifp rase psnrb,uni20.01000.2inf_succ,gen_list_hopskip,hopskip,cifar,,conv12,0.9411764705882353
+exp_4013,squeezer_det,Linf L0 uqi ergas sam scc vifp rase psnrb,uni20.01000.2inf_succ,gen_list_jsma,jsma,cifar,,conv12,0.7043090638930164
+exp_4013,squeezer_det,Linf L0 uqi ergas sam scc vifp rase psnrb,uni20.01000.2inf_succ,gen_list_uni_inf,uni,cifar,,conv12,0.9038461538461539

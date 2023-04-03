@@ -1,0 +1,18 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_80,success_rate,L2 L1 Linf uqi sam rase psnrb,cw250.0100_succ,gen_list_3,cw2,cifar,,conv12,0.04705852550618794
+exp_80,success_rate,L2 L1 Linf uqi sam rase psnrb,cw240.0100_succ,gen_list_3,cw2,cifar,,conv12,0.03529381962383493
+exp_80,success_rate,L2 L1 Linf uqi sam rase psnrb,cw230.0100_succ,gen_list_3,cw2,cifar,,conv12,0.03529381962383493
+exp_80,success_rate,L2 L1 Linf uqi sam rase psnrb,cw220.0100_succ,gen_list_3,cw2,cifar,,conv12,2.980232238769531e-07
+exp_80,success_rate,L2 L1 Linf uqi sam rase psnrb,cw215.0100_succ,gen_list_3,cw2,cifar,,conv12,2.980232238769531e-07
+exp_80,success_rate,L2 L1 Linf uqi sam rase psnrb,cw210.0100_succ,gen_list_3,cw2,cifar,,conv12,2.980232238769531e-07
+exp_80,success_rate,L2 L1 Linf uqi sam rase psnrb,cw25.0100_succ,gen_list_3,cw2,cifar,,conv12,2.980232238769531e-07
+exp_80,success_rate,L2 L1 Linf uqi sam rase psnrb,cw21.0100_succ,gen_list_3,cw2,cifar,,conv12,2.980232238769531e-07
+exp_80,success_rate,L2 L1 Linf uqi sam rase psnrb,cw210.010_succ,gen_list_3,cw2,cifar,,conv12,2.980232238769531e-07
+exp_80,success_rate,L2 L1 Linf uqi sam rase psnrb,cw210.030_succ,gen_list_3,cw2,cifar,,conv12,2.980232238769531e-07
+exp_80,success_rate,L2 L1 Linf uqi sam rase psnrb,cw210.050_succ,gen_list_3,cw2,cifar,,conv12,2.980232238769531e-07
+exp_80,success_rate,L2 L1 Linf uqi sam rase psnrb,cw210.060_succ,gen_list_3,cw2,cifar,,conv12,2.980232238769531e-07
+exp_80,success_rate,L2 L1 Linf uqi sam rase psnrb,cw210.080_succ,gen_list_3,cw2,cifar,,conv12,2.980232238769531e-07
+exp_80,success_rate,L2 L1 Linf uqi sam rase psnrb,cw210.0200_succ,gen_list_3,cw2,cifar,,conv12,2.980232238769531e-07
+exp_80,success_rate,L2 L1 Linf uqi sam rase psnrb,cw210.0500_succ,gen_list_3,cw2,cifar,,conv12,2.980232238769531e-07
+exp_80,success_rate,L2 L1 Linf uqi sam rase psnrb,cw210.0800_succ,gen_list_3,cw2,cifar,,conv12,2.980232238769531e-07
+exp_80,success_rate,L2 L1 Linf uqi sam rase psnrb,cw210.01000_succ,gen_list_3,cw2,cifar,,conv12,2.980232238769531e-07

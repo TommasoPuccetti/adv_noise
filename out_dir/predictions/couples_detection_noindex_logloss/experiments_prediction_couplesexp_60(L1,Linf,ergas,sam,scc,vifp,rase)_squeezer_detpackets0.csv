@@ -1,0 +1,20 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC
+exp_60,squeezer_det,L1 Linf ergas sam scc vifp rase,newton0.1100_succ,gen_list_newton,newton,cifar,conv12,0.8,-0.05254069374927338
+exp_60,squeezer_det,L1 Linf ergas sam scc vifp rase,newton0.03100_succ,gen_list_newton,newton,cifar,conv12,0.8,-0.05254069374927338
+exp_60,squeezer_det,L1 Linf ergas sam scc vifp rase,newton0.05100_succ,gen_list_newton,newton,cifar,conv12,0.8,-0.05254069374927338
+exp_60,squeezer_det,L1 Linf ergas sam scc vifp rase,newton0.07100_succ,gen_list_newton,newton,cifar,conv12,0.8,-0.05254069374927338
+exp_60,squeezer_det,L1 Linf ergas sam scc vifp rase,newton0.09100_succ,gen_list_newton,newton,cifar,conv12,0.8,-0.05254069374927338
+exp_60,squeezer_det,L1 Linf ergas sam scc vifp rase,newton1.0100_succ,gen_list_newton,newton,cifar,conv12,0.8,-0.05254069374927338
+exp_60,squeezer_det,L1 Linf ergas sam scc vifp rase,newton3.0100_succ,gen_list_newton,newton,cifar,conv12,0.8,-0.05254069374927338
+exp_60,squeezer_det,L1 Linf ergas sam scc vifp rase,newton5.0100_succ,gen_list_newton,newton,cifar,conv12,0.8,-0.05254069374927338
+exp_60,squeezer_det,L1 Linf ergas sam scc vifp rase,newton7.0100_succ,gen_list_newton,newton,cifar,conv12,0.8,-0.05254069374927338
+exp_60,squeezer_det,L1 Linf ergas sam scc vifp rase,newton9.0100_succ,gen_list_newton,newton,cifar,conv12,0.8,-0.05254069374927338
+exp_60,squeezer_det,L1 Linf ergas sam scc vifp rase,newton0.0110_succ,gen_list_newton,newton,cifar,conv12,0.8117647058823529,-0.050507627227610534
+exp_60,squeezer_det,L1 Linf ergas sam scc vifp rase,newton0.0130_succ,gen_list_newton,newton,cifar,conv12,0.8117647058823529,-0.050507627227610534
+exp_60,squeezer_det,L1 Linf ergas sam scc vifp rase,newton0.0150_succ,gen_list_newton,newton,cifar,conv12,0.8117647058823529,-0.050507627227610534
+exp_60,squeezer_det,L1 Linf ergas sam scc vifp rase,newton0.0170_succ,gen_list_newton,newton,cifar,conv12,0.8117647058823529,-0.050507627227610534
+exp_60,squeezer_det,L1 Linf ergas sam scc vifp rase,newton0.0190_succ,gen_list_newton,newton,cifar,conv12,0.8117647058823529,-0.050507627227610534
+exp_60,squeezer_det,L1 Linf ergas sam scc vifp rase,newton0.01100_succ,gen_list_newton,newton,cifar,conv12,0.8117647058823529,-0.050507627227610534
+exp_60,squeezer_det,L1 Linf ergas sam scc vifp rase,newton0.01150_succ,gen_list_newton,newton,cifar,conv12,0.8117647058823529,-0.050507627227610534
+exp_60,squeezer_det,L1 Linf ergas sam scc vifp rase,newton0.01200_succ,gen_list_newton,newton,cifar,conv12,0.8117647058823529,-0.050507627227610534
+exp_60,squeezer_det,L1 Linf ergas sam scc vifp rase,newton0.01300_succ,gen_list_newton,newton,cifar,conv12,0.8117647058823529,-0.050507627227610534

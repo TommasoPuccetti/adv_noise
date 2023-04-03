@@ -1,0 +1,2 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC,test_shape,train_shape
+exp_49,squeezer_det,L1 Linf ergas sam scc vifp rase,newton0.01300_succ,gen_list_newton,newton,cifar,conv12,0.7058823529411765,-0.15915883070557768,323.0,2659.0

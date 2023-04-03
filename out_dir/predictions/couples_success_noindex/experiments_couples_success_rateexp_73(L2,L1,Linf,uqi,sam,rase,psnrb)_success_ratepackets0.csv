@@ -1,0 +1,21 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,R2
+exp_73,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo11010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.25882323138854085,-5.434831081670642e+30
+exp_73,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo11010.0_miss,gen_list_zoo,zoo,cifar,conv12,0.25882323138854085,-1.3587077704176608e+30
+exp_73,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo12010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.14117617256501147,-1.6169714335753625e+30
+exp_73,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo12010.0_miss,gen_list_zoo,zoo,cifar,conv12,0.14117617256501147,-1.6169714335753625e+30
+exp_73,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo13010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.11764676080030556,0.0
+exp_73,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo13010.0_miss,gen_list_zoo,zoo,cifar,conv12,0.11764676080030556,-1.1228958806968673e+30
+exp_73,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo14010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.08235264315324677,-3.438861167762359e+28
+exp_73,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo14010.0_miss,gen_list_zoo,zoo,cifar,conv12,0.08235264315324677,-5.502177868419774e+29
+exp_73,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo15010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.08235264315324677,-3.438861167762359e+28
+exp_73,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo15010.0_miss,gen_list_zoo,zoo,cifar,conv12,0.08235264315324677,-5.502177868419774e+29
+exp_73,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo16010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.05882323138854096,-2.8072254791395213e+29
+exp_73,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo16010.0_miss,gen_list_zoo,zoo,cifar,conv12,0.05882323138854095,0.0
+exp_73,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo17010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.05882323138854096,-2.8072254791395213e+29
+exp_73,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo17010.0_miss,gen_list_zoo,zoo,cifar,conv12,0.05882323138854095,0.0
+exp_73,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo18010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.047058525506187936,0.0
+exp_73,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo18010.0_miss,gen_list_zoo,zoo,cifar,conv12,0.04705852550618794,0.0
+exp_73,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo19010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.10588205491795254,0.0
+exp_73,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo19010.0_miss,gen_list_zoo,zoo,cifar,conv12,0.10588205491795255,-9.095451513501892e+29
+exp_73,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo20010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.08235264315324677,-3.438861167762359e+28
+exp_73,success_rate,L2 L1 Linf uqi sam rase psnrb,zoo20010.0_miss,gen_list_zoo,zoo,cifar,conv12,0.08235264315324677,-5.502177868419774e+29

@@ -1,0 +1,2 @@
+file_name,ACC,MCC,id,label,features,csv_name,attack,dataset_name,model_name
+all,0.8431372549019608,-0.059909705361400924,exp_104,squeezer_det,L1 Linf ergas sam scc vifp rase,all,all,cifar,conv12

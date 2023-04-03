@@ -1,0 +1,13 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_1169,squeezer_det,L1 Linf mse vifp rase,uni20.01000.2inf_succ,gen_list_1,bim,cifar,,conv12,0.9002557544757033
+exp_1169,squeezer_det,L1 Linf mse vifp rase,uni20.01000.2inf_succ,gen_list_1,fgm,cifar,,conv12,0.9206349206349206
+exp_1169,squeezer_det,L1 Linf mse vifp rase,uni20.01000.2inf_succ,gen_list_1,deep,cifar,,conv12,0.8366533864541833
+exp_1169,squeezer_det,L1 Linf mse vifp rase,uni20.01000.2inf_succ,gen_list_3,cw2,cifar,,conv12,0.4429065743944637
+exp_1169,squeezer_det,L1 Linf mse vifp rase,uni20.01000.2inf_succ,gen_list_boundary,boundary,cifar,,conv12,0.9669669669669669
+exp_1169,squeezer_det,L1 Linf mse vifp rase,uni20.01000.2inf_succ,gen_list_elastic,elastic,cifar,,conv12,1.0
+exp_1169,squeezer_det,L1 Linf mse vifp rase,uni20.01000.2inf_succ,gen_list_newton,newton,cifar,,conv12,0.7956656346749226
+exp_1169,squeezer_det,L1 Linf mse vifp rase,uni20.01000.2inf_succ,gen_list_pgd,pgd,cifar,,conv12,0.9845201238390093
+exp_1169,squeezer_det,L1 Linf mse vifp rase,uni20.01000.2inf_succ,gen_list_zoo,zoo,cifar,,conv12,0.9938271604938271
+exp_1169,squeezer_det,L1 Linf mse vifp rase,uni20.01000.2inf_succ,gen_list_hopskip,hopskip,cifar,,conv12,0.9705882352941176
+exp_1169,squeezer_det,L1 Linf mse vifp rase,uni20.01000.2inf_succ,gen_list_jsma,jsma,cifar,,conv12,0.6968796433878157
+exp_1169,squeezer_det,L1 Linf mse vifp rase,uni20.01000.2inf_succ,gen_list_uni_inf,uni,cifar,,conv12,0.9423076923076923

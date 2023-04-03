@@ -1,0 +1,26 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.10.1_succ,gen_list_1,bim,cifar,conv12,0.8823529411764706,0.0
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.10.3_succ,gen_list_1,bim,cifar,conv12,0.07692307692307693,0.0
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.10.5_succ,gen_list_1,bim,cifar,conv12,0.07692307692307693,0.0
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.10.7_succ,gen_list_1,bim,cifar,conv12,0.07692307692307693,0.0
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.10.9_succ,gen_list_1,bim,cifar,conv12,0.07692307692307693,0.0
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.10.01_succ,gen_list_1,bim,cifar,conv12,1.0,0.0
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.10.03_succ,gen_list_1,bim,cifar,conv12,1.0,0.0
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.10.05_succ,gen_list_1,bim,cifar,conv12,1.0,0.0
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.10.07_succ,gen_list_1,bim,cifar,conv12,1.0,0.0
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.10.09_succ,gen_list_1,bim,cifar,conv12,1.0,0.0
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.10.001_succ,gen_list_1,bim,cifar,conv12,1.0,0.0
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.10.003_succ,gen_list_1,bim,cifar,conv12,1.0,0.0
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.10.005_succ,gen_list_1,bim,cifar,conv12,1.0,0.0
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.10.007_succ,gen_list_1,bim,cifar,conv12,1.0,0.0
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.10.009_succ,gen_list_1,bim,cifar,conv12,1.0,0.0
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.010.1_succ,gen_list_1,bim,cifar,conv12,0.6666666666666666,0.1386750490563073
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.030.1_succ,gen_list_1,bim,cifar,conv12,0.7333333333333333,0.0
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.050.1_succ,gen_list_1,bim,cifar,conv12,0.7692307692307693,0.0
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.070.1_succ,gen_list_1,bim,cifar,conv12,0.4117647058823529,-0.1690308509457033
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.090.1_succ,gen_list_1,bim,cifar,conv12,0.8235294117647058,0.0
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.0010.1_succ,gen_list_1,bim,cifar,conv12,1.0,0.0
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.0030.1_succ,gen_list_1,bim,cifar,conv12,0.6363636363636364,0.0
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.0050.1_succ,gen_list_1,bim,cifar,conv12,0.7142857142857143,-0.16666666666666666
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.0070.1_succ,gen_list_1,bim,cifar,conv12,0.7333333333333333,-0.15384615384615385
+exp_66,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.0090.1_succ,gen_list_1,bim,cifar,conv12,0.8,0.0

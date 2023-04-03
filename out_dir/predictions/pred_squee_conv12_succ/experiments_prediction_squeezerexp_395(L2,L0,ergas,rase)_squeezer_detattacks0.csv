@@ -1,0 +1,13 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_395,squeezer_det,L2 L0 ergas rase,uni20.01000.2inf_succ,gen_list_1,bim,cifar,,conv12,0.8465473145780051
+exp_395,squeezer_det,L2 L0 ergas rase,uni20.01000.2inf_succ,gen_list_1,fgm,cifar,,conv12,0.8809523809523809
+exp_395,squeezer_det,L2 L0 ergas rase,uni20.01000.2inf_succ,gen_list_1,deep,cifar,,conv12,0.8605577689243028
+exp_395,squeezer_det,L2 L0 ergas rase,uni20.01000.2inf_succ,gen_list_3,cw2,cifar,,conv12,0.25951557093425603
+exp_395,squeezer_det,L2 L0 ergas rase,uni20.01000.2inf_succ,gen_list_boundary,boundary,cifar,,conv12,0.9564564564564565
+exp_395,squeezer_det,L2 L0 ergas rase,uni20.01000.2inf_succ,gen_list_elastic,elastic,cifar,,conv12,0.9984917043740573
+exp_395,squeezer_det,L2 L0 ergas rase,uni20.01000.2inf_succ,gen_list_newton,newton,cifar,,conv12,0.7925696594427245
+exp_395,squeezer_det,L2 L0 ergas rase,uni20.01000.2inf_succ,gen_list_pgd,pgd,cifar,,conv12,0.9040247678018576
+exp_395,squeezer_det,L2 L0 ergas rase,uni20.01000.2inf_succ,gen_list_zoo,zoo,cifar,,conv12,0.845679012345679
+exp_395,squeezer_det,L2 L0 ergas rase,uni20.01000.2inf_succ,gen_list_hopskip,hopskip,cifar,,conv12,0.916289592760181
+exp_395,squeezer_det,L2 L0 ergas rase,uni20.01000.2inf_succ,gen_list_jsma,jsma,cifar,,conv12,0.6612184249628529
+exp_395,squeezer_det,L2 L0 ergas rase,uni20.01000.2inf_succ,gen_list_uni_inf,uni,cifar,,conv12,0.9653846153846154

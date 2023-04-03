@@ -1,0 +1,2 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC,test_shape,train_shape
+exp_33,squeezer_det,L1 Linf ergas sam scc vifp rase,bim0.0090.1_succ,gen_list_1,bim,cifar,conv12,0.6683751922091236,0.1842607409547186,1951.0,1435.0

@@ -1,0 +1,21 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_100,success_rate,L2 L1 Linf uqi sam rase psnrb,fgm0.01_succ,gen_list_1,fgm,cifar,,conv12,0.1510706759863038
+exp_100,success_rate,L2 L1 Linf uqi sam rase psnrb,fgm0.01_miss,gen_list_1,fgm,cifar,,conv12,0.1513199897373424
+exp_100,success_rate,L2 L1 Linf uqi sam rase psnrb,fgm0.03_succ,gen_list_1,fgm,cifar,,conv12,0.0355370661791633
+exp_100,success_rate,L2 L1 Linf uqi sam rase psnrb,fgm0.03_miss,gen_list_1,fgm,cifar,,conv12,0.0355370661791633
+exp_100,success_rate,L2 L1 Linf uqi sam rase psnrb,fgm0.05_succ,gen_list_1,fgm,cifar,,conv12,0.09430873954997354
+exp_100,success_rate,L2 L1 Linf uqi sam rase psnrb,fgm0.05_miss,gen_list_1,fgm,cifar,,conv12,0.09430873954997354
+exp_100,success_rate,L2 L1 Linf uqi sam rase psnrb,fgm0.07_succ,gen_list_1,fgm,cifar,,conv12,0.12914598759482887
+exp_100,success_rate,L2 L1 Linf uqi sam rase psnrb,fgm0.07_miss,gen_list_1,fgm,cifar,,conv12,0.12914598759482887
+exp_100,success_rate,L2 L1 Linf uqi sam rase psnrb,fgm0.09_succ,gen_list_1,fgm,cifar,,conv12,0.15267539935953478
+exp_100,success_rate,L2 L1 Linf uqi sam rase psnrb,fgm0.09_miss,gen_list_1,fgm,cifar,,conv12,0.15267539935953478
+exp_100,success_rate,L2 L1 Linf uqi sam rase psnrb,fgm0.001_succ,gen_list_1,fgm,cifar,,conv12,0.8703833182247139
+exp_100,success_rate,L2 L1 Linf uqi sam rase psnrb,fgm0.001_miss,gen_list_1,fgm,cifar,,conv12,0.8700219624597838
+exp_100,success_rate,L2 L1 Linf uqi sam rase psnrb,fgm0.003_succ,gen_list_1,fgm,cifar,,conv12,0.6204517113796578
+exp_100,success_rate,L2 L1 Linf uqi sam rase psnrb,fgm0.003_miss,gen_list_1,fgm,cifar,,conv12,0.6201598536169679
+exp_100,success_rate,L2 L1 Linf uqi sam rase psnrb,fgm0.005_succ,gen_list_1,fgm,cifar,,conv12,0.39674459568208437
+exp_100,success_rate,L2 L1 Linf uqi sam rase psnrb,fgm0.005_miss,gen_list_1,fgm,cifar,,conv12,0.3976096571268624
+exp_100,success_rate,L2 L1 Linf uqi sam rase psnrb,fgm0.007_succ,gen_list_1,fgm,cifar,,conv12,0.30150590292101404
+exp_100,success_rate,L2 L1 Linf uqi sam rase psnrb,fgm0.007_miss,gen_list_1,fgm,cifar,,conv12,0.30172784469079883
+exp_100,success_rate,L2 L1 Linf uqi sam rase psnrb,fgm0.009_succ,gen_list_1,fgm,cifar,,conv12,0.22017278417864047
+exp_100,success_rate,L2 L1 Linf uqi sam rase psnrb,fgm0.009_miss,gen_list_1,fgm,cifar,,conv12,0.22074104687746832

@@ -1,0 +1,18 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC
+exp_2,squeezer_det,L1 Linf ergas sam scc vifp rase,cw250.0100_succ,gen_list_3,cw2,cifar,conv12,0.9876543209876543,0.0
+exp_2,squeezer_det,L1 Linf ergas sam scc vifp rase,cw240.0100_succ,gen_list_3,cw2,cifar,conv12,0.926829268292683,0.0
+exp_2,squeezer_det,L1 Linf ergas sam scc vifp rase,cw230.0100_succ,gen_list_3,cw2,cifar,conv12,0.7439024390243902,0.0
+exp_2,squeezer_det,L1 Linf ergas sam scc vifp rase,cw220.0100_succ,gen_list_3,cw2,cifar,conv12,0.4,0.0
+exp_2,squeezer_det,L1 Linf ergas sam scc vifp rase,cw215.0100_succ,gen_list_3,cw2,cifar,conv12,0.2,0.05254069374927338
+exp_2,squeezer_det,L1 Linf ergas sam scc vifp rase,cw210.0100_succ,gen_list_3,cw2,cifar,conv12,0.23529411764705882,-0.06419407387663693
+exp_2,squeezer_det,L1 Linf ergas sam scc vifp rase,cw25.0100_succ,gen_list_3,cw2,cifar,conv12,0.8117647058823529,-0.050507627227610534
+exp_2,squeezer_det,L1 Linf ergas sam scc vifp rase,cw21.0100_succ,gen_list_3,cw2,cifar,conv12,0.9529411764705882,0.0
+exp_2,squeezer_det,L1 Linf ergas sam scc vifp rase,cw210.010_succ,gen_list_3,cw2,cifar,conv12,0.3058823529411765,0.10880458276725348
+exp_2,squeezer_det,L1 Linf ergas sam scc vifp rase,cw210.030_succ,gen_list_3,cw2,cifar,conv12,0.24705882352941178,-0.040291148201269014
+exp_2,squeezer_det,L1 Linf ergas sam scc vifp rase,cw210.050_succ,gen_list_3,cw2,cifar,conv12,0.2235294117647059,-0.14101901870444156
+exp_2,squeezer_det,L1 Linf ergas sam scc vifp rase,cw210.060_succ,gen_list_3,cw2,cifar,conv12,0.2235294117647059,-0.14101901870444156
+exp_2,squeezer_det,L1 Linf ergas sam scc vifp rase,cw210.080_succ,gen_list_3,cw2,cifar,conv12,0.23529411764705882,-0.06419407387663693
+exp_2,squeezer_det,L1 Linf ergas sam scc vifp rase,cw210.0200_succ,gen_list_3,cw2,cifar,conv12,0.23529411764705882,-0.06419407387663693
+exp_2,squeezer_det,L1 Linf ergas sam scc vifp rase,cw210.0500_succ,gen_list_3,cw2,cifar,conv12,0.23529411764705882,-0.06419407387663693
+exp_2,squeezer_det,L1 Linf ergas sam scc vifp rase,cw210.0800_succ,gen_list_3,cw2,cifar,conv12,0.23529411764705882,-0.06419407387663693
+exp_2,squeezer_det,L1 Linf ergas sam scc vifp rase,cw210.01000_succ,gen_list_3,cw2,cifar,conv12,0.23529411764705882,-0.06419407387663693

@@ -1,0 +1,16 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC
+exp_133,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep10.0100_succ,gen_list_1,deep,cifar,conv12,0.5882352941176471,0.26516504294495535
+exp_133,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep8.0100_succ,gen_list_1,deep,cifar,conv12,0.7058823529411765,0.338501600193165
+exp_133,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep6.0100_succ,gen_list_1,deep,cifar,conv12,0.7058823529411765,0.0
+exp_133,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep4.0100_succ,gen_list_1,deep,cifar,conv12,0.6470588235294118,0.0
+exp_133,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep2.0100_succ,gen_list_1,deep,cifar,conv12,0.7058823529411765,0.0
+exp_133,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep0.0100_succ,gen_list_1,deep,cifar,conv12,0.9230769230769231,0.0
+exp_133,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep5.010_succ,gen_list_1,deep,cifar,conv12,0.6470588235294118,0.0
+exp_133,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep5.030_succ,gen_list_1,deep,cifar,conv12,0.6470588235294118,0.0
+exp_133,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep5.050_succ,gen_list_1,deep,cifar,conv12,0.6470588235294118,0.0
+exp_133,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep5.070_succ,gen_list_1,deep,cifar,conv12,0.6470588235294118,0.0
+exp_133,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep5.090_succ,gen_list_1,deep,cifar,conv12,0.6470588235294118,0.0
+exp_133,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep5.0100_succ,gen_list_1,deep,cifar,conv12,0.6470588235294118,0.0
+exp_133,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep5.0150_succ,gen_list_1,deep,cifar,conv12,0.6470588235294118,0.0
+exp_133,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep5.0200_succ,gen_list_1,deep,cifar,conv12,0.6470588235294118,0.0
+exp_133,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep5.0300_succ,gen_list_1,deep,cifar,conv12,0.6470588235294118,0.0

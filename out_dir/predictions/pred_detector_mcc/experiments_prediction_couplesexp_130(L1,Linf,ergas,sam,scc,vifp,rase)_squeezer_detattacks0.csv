@@ -1,0 +1,2 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC,test_shape,train_shape
+exp_130,squeezer_det,L1 Linf ergas sam scc vifp rase,hopskipnan30010000100100_succ,gen_list_hopskip,hopskip,cifar,conv12,0.9343891402714932,0.0,442.0,940.0

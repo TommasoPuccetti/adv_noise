@@ -1,0 +1,17 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_68,success_rate,L2 L1 Linf uqi sam rase psnrb,deep10.0100_succ,gen_list_1,deep,cifar,,conv12,0.05882323138854095
+exp_68,success_rate,L2 L1 Linf uqi sam rase psnrb,deep8.0100_succ,gen_list_1,deep,cifar,,conv12,0.05882323138854095
+exp_68,success_rate,L2 L1 Linf uqi sam rase psnrb,deep6.0100_succ,gen_list_1,deep,cifar,,conv12,0.011764407859128911
+exp_68,success_rate,L2 L1 Linf uqi sam rase psnrb,deep4.0100_succ,gen_list_1,deep,cifar,,conv12,0.023529113741482144
+exp_68,success_rate,L2 L1 Linf uqi sam rase psnrb,deep2.0100_succ,gen_list_1,deep,cifar,,conv12,2.980232238769531e-07
+exp_68,success_rate,L2 L1 Linf uqi sam rase psnrb,deep0.0100_succ,gen_list_1,deep,cifar,,conv12,0.16470558432971724
+exp_68,success_rate,L2 L1 Linf uqi sam rase psnrb,deep0.0100_miss,gen_list_1,deep,cifar,,conv12,0.16470558432971727
+exp_68,success_rate,L2 L1 Linf uqi sam rase psnrb,deep5.010_succ,gen_list_1,deep,cifar,,conv12,0.011764407859128911
+exp_68,success_rate,L2 L1 Linf uqi sam rase psnrb,deep5.030_succ,gen_list_1,deep,cifar,,conv12,0.011764407859128911
+exp_68,success_rate,L2 L1 Linf uqi sam rase psnrb,deep5.050_succ,gen_list_1,deep,cifar,,conv12,0.011764407859128911
+exp_68,success_rate,L2 L1 Linf uqi sam rase psnrb,deep5.070_succ,gen_list_1,deep,cifar,,conv12,0.011764407859128911
+exp_68,success_rate,L2 L1 Linf uqi sam rase psnrb,deep5.090_succ,gen_list_1,deep,cifar,,conv12,0.011764407859128911
+exp_68,success_rate,L2 L1 Linf uqi sam rase psnrb,deep5.0100_succ,gen_list_1,deep,cifar,,conv12,0.011764407859128911
+exp_68,success_rate,L2 L1 Linf uqi sam rase psnrb,deep5.0150_succ,gen_list_1,deep,cifar,,conv12,0.011764407859128911
+exp_68,success_rate,L2 L1 Linf uqi sam rase psnrb,deep5.0200_succ,gen_list_1,deep,cifar,,conv12,0.011764407859128911
+exp_68,success_rate,L2 L1 Linf uqi sam rase psnrb,deep5.0300_succ,gen_list_1,deep,cifar,,conv12,0.011764407859128911

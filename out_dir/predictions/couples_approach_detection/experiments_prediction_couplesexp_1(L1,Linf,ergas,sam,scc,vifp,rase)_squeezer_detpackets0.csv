@@ -1,0 +1,16 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_1,squeezer_det,L1 Linf ergas sam scc vifp rase,deep10.0100_succ,gen_list_1,deep,cifar,,conv12,0.4117647058823529
+exp_1,squeezer_det,L1 Linf ergas sam scc vifp rase,deep8.0100_succ,gen_list_1,deep,cifar,,conv12,0.4117647058823529
+exp_1,squeezer_det,L1 Linf ergas sam scc vifp rase,deep6.0100_succ,gen_list_1,deep,cifar,,conv12,0.5294117647058824
+exp_1,squeezer_det,L1 Linf ergas sam scc vifp rase,deep4.0100_succ,gen_list_1,deep,cifar,,conv12,0.6470588235294118
+exp_1,squeezer_det,L1 Linf ergas sam scc vifp rase,deep2.0100_succ,gen_list_1,deep,cifar,,conv12,0.8823529411764706
+exp_1,squeezer_det,L1 Linf ergas sam scc vifp rase,deep0.0100_succ,gen_list_1,deep,cifar,,conv12,1.0
+exp_1,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.010_succ,gen_list_1,deep,cifar,,conv12,0.5882352941176471
+exp_1,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.030_succ,gen_list_1,deep,cifar,,conv12,0.5882352941176471
+exp_1,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.050_succ,gen_list_1,deep,cifar,,conv12,0.5882352941176471
+exp_1,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.070_succ,gen_list_1,deep,cifar,,conv12,0.5882352941176471
+exp_1,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.090_succ,gen_list_1,deep,cifar,,conv12,0.5882352941176471
+exp_1,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.0100_succ,gen_list_1,deep,cifar,,conv12,0.5882352941176471
+exp_1,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.0150_succ,gen_list_1,deep,cifar,,conv12,0.5882352941176471
+exp_1,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.0200_succ,gen_list_1,deep,cifar,,conv12,0.5882352941176471
+exp_1,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.0300_succ,gen_list_1,deep,cifar,,conv12,0.5882352941176471

@@ -1,0 +1,13 @@
+id,features,label,attack
+exp_0,"L2,L1,Linf,uqi,sam,rase,psnrb",success_rate,bim
+exp_1,"L2,L1,Linf,uqi,sam,rase,psnrb",success_rate,boundary
+exp_2,"L2,L1,Linf,uqi,sam,rase,psnrb",success_rate,cw2
+exp_3,"L2,L1,Linf,uqi,sam,rase,psnrb",success_rate,deep
+exp_4,"L2,L1,Linf,uqi,sam,rase,psnrb",success_rate,elastic
+exp_5,"L2,L1,Linf,uqi,sam,rase,psnrb",success_rate,fgm
+exp_6,"L2,L1,Linf,uqi,sam,rase,psnrb",success_rate,hopskip
+exp_7,"L2,L1,Linf,uqi,sam,rase,psnrb",success_rate,jsma
+exp_8,"L2,L1,Linf,uqi,sam,rase,psnrb",success_rate,newton
+exp_9,"L2,L1,Linf,uqi,sam,rase,psnrb",success_rate,pgd
+exp_10,"L2,L1,Linf,uqi,sam,rase,psnrb",success_rate,uni
+exp_11,"L2,L1,Linf,uqi,sam,rase,psnrb",success_rate,zoo

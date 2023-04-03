@@ -1,0 +1,2 @@
+file_name,ACC,id,label,features,csv_name,attack,dataset_name,model_name
+all,0.8509520682862771,exp_1351,squeezer_det,Linf L0 mse vifp rase,all,all,cifar,conv12

@@ -1,0 +1,18 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC
+exp_190,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,cw250.0100_succ,gen_list_3,cw2,cifar,conv12,0.0,0.0
+exp_190,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,cw240.0100_succ,gen_list_3,cw2,cifar,conv12,0.0,0.0
+exp_190,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,cw230.0100_succ,gen_list_3,cw2,cifar,conv12,0.024390243902439025,0.0
+exp_190,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,cw220.0100_succ,gen_list_3,cw2,cifar,conv12,0.058823529411764705,0.0
+exp_190,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,cw215.0100_succ,gen_list_3,cw2,cifar,conv12,0.3058823529411765,0.17206180040292132
+exp_190,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,cw210.0100_succ,gen_list_3,cw2,cifar,conv12,0.4117647058823529,0.0033740680424121498
+exp_190,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,cw25.0100_succ,gen_list_3,cw2,cifar,conv12,0.6823529411764706,0.2543527874857913
+exp_190,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,cw21.0100_succ,gen_list_3,cw2,cifar,conv12,0.9058823529411765,0.5478144471943069
+exp_190,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,cw210.010_succ,gen_list_3,cw2,cifar,conv12,0.4235294117647059,0.0034139437099945944
+exp_190,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,cw210.030_succ,gen_list_3,cw2,cifar,conv12,0.4235294117647059,0.019351506480687192
+exp_190,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,cw210.050_succ,gen_list_3,cw2,cifar,conv12,0.4235294117647059,0.019351506480687192
+exp_190,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,cw210.060_succ,gen_list_3,cw2,cifar,conv12,0.4235294117647059,0.019351506480687192
+exp_190,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,cw210.080_succ,gen_list_3,cw2,cifar,conv12,0.4117647058823529,0.0033740680424121498
+exp_190,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,cw210.0200_succ,gen_list_3,cw2,cifar,conv12,0.4117647058823529,0.0033740680424121498
+exp_190,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,cw210.0500_succ,gen_list_3,cw2,cifar,conv12,0.4117647058823529,0.0033740680424121498
+exp_190,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,cw210.0800_succ,gen_list_3,cw2,cifar,conv12,0.4117647058823529,0.0033740680424121498
+exp_190,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,cw210.01000_succ,gen_list_3,cw2,cifar,conv12,0.4117647058823529,0.0033740680424121498

@@ -1,0 +1,11 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC
+exp_232,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,fgm0.01_succ,gen_list_1,fgm,cifar,conv12,0.16666666666666666,0.08574929257125441
+exp_232,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,fgm0.03_succ,gen_list_1,fgm,cifar,conv12,0.07317073170731707,0.03580574370197165
+exp_232,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,fgm0.05_succ,gen_list_1,fgm,cifar,conv12,0.15584415584415584,0.07325066400671384
+exp_232,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,fgm0.07_succ,gen_list_1,fgm,cifar,conv12,0.12162162162162163,-0.11727705385132023
+exp_232,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,fgm0.09_succ,gen_list_1,fgm,cifar,conv12,0.7361111111111112,-0.09397429877987296
+exp_232,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,fgm0.001_succ,gen_list_1,fgm,cifar,conv12,1.0,0.0
+exp_232,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,fgm0.003_succ,gen_list_1,fgm,cifar,conv12,0.9375,-0.03225806451612903
+exp_232,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,fgm0.005_succ,gen_list_1,fgm,cifar,conv12,0.6862745098039216,0.08110479849054814
+exp_232,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,fgm0.007_succ,gen_list_1,fgm,cifar,conv12,0.3050847457627119,-0.17071370895761467
+exp_232,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,fgm0.009_succ,gen_list_1,fgm,cifar,conv12,0.24242424242424243,-0.023534689338691066

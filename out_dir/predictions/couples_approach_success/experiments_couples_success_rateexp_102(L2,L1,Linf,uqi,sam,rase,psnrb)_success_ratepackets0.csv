@@ -1,0 +1,18 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_102,success_rate,L2 L1 Linf uqi sam rase psnrb,cw250.0100_succ,gen_list_3,cw2,cifar,,conv12,0.046659335309712814
+exp_102,success_rate,L2 L1 Linf uqi sam rase psnrb,cw240.0100_succ,gen_list_3,cw2,cifar,,conv12,0.034911634066172315
+exp_102,success_rate,L2 L1 Linf uqi sam rase psnrb,cw230.0100_succ,gen_list_3,cw2,cifar,,conv12,0.03494637687803848
+exp_102,success_rate,L2 L1 Linf uqi sam rase psnrb,cw220.0100_succ,gen_list_3,cw2,cifar,,conv12,0.002099390507210646
+exp_102,success_rate,L2 L1 Linf uqi sam rase psnrb,cw215.0100_succ,gen_list_3,cw2,cifar,,conv12,0.0012262411000202194
+exp_102,success_rate,L2 L1 Linf uqi sam rase psnrb,cw210.0100_succ,gen_list_3,cw2,cifar,,conv12,0.0011748151663372335
+exp_102,success_rate,L2 L1 Linf uqi sam rase psnrb,cw25.0100_succ,gen_list_3,cw2,cifar,,conv12,0.0008545701463798619
+exp_102,success_rate,L2 L1 Linf uqi sam rase psnrb,cw21.0100_succ,gen_list_3,cw2,cifar,,conv12,0.001164576697982862
+exp_102,success_rate,L2 L1 Linf uqi sam rase psnrb,cw210.010_succ,gen_list_3,cw2,cifar,,conv12,0.0021128786358515016
+exp_102,success_rate,L2 L1 Linf uqi sam rase psnrb,cw210.030_succ,gen_list_3,cw2,cifar,,conv12,0.0011448093896863183
+exp_102,success_rate,L2 L1 Linf uqi sam rase psnrb,cw210.050_succ,gen_list_3,cw2,cifar,,conv12,0.0011748151663372335
+exp_102,success_rate,L2 L1 Linf uqi sam rase psnrb,cw210.060_succ,gen_list_3,cw2,cifar,,conv12,0.0011748151663372335
+exp_102,success_rate,L2 L1 Linf uqi sam rase psnrb,cw210.080_succ,gen_list_3,cw2,cifar,,conv12,0.0011748151663372335
+exp_102,success_rate,L2 L1 Linf uqi sam rase psnrb,cw210.0200_succ,gen_list_3,cw2,cifar,,conv12,0.0011748151663372335
+exp_102,success_rate,L2 L1 Linf uqi sam rase psnrb,cw210.0500_succ,gen_list_3,cw2,cifar,,conv12,0.0011748151663372335
+exp_102,success_rate,L2 L1 Linf uqi sam rase psnrb,cw210.0800_succ,gen_list_3,cw2,cifar,,conv12,0.0011748151663372335
+exp_102,success_rate,L2 L1 Linf uqi sam rase psnrb,cw210.01000_succ,gen_list_3,cw2,cifar,,conv12,0.0011748151663372335

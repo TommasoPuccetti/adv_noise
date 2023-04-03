@@ -1,0 +1,2 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_37,success_rate,L2 L1 Linf uqi sam rase psnrb,elastic9050.0_succ,gen_list_elastic,elastic,cifar,,conv12,0.0013595533547310764

@@ -1,0 +1,13 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_1926,success_rate,L2 L0 mse uqi sam scc,uni20.01000.2inf_miss,gen_list_1,bim,cifar,,conv12,0.035804939132538856
+exp_1926,success_rate,L2 L0 mse uqi sam scc,uni20.01000.2inf_miss,gen_list_1,fgm,cifar,,conv12,0.06799064300922365
+exp_1926,success_rate,L2 L0 mse uqi sam scc,uni20.01000.2inf_miss,gen_list_1,deep,cifar,,conv12,0.12161584745372779
+exp_1926,success_rate,L2 L0 mse uqi sam scc,uni20.01000.2inf_miss,gen_list_3,cw2,cifar,,conv12,0.0700279983418085
+exp_1926,success_rate,L2 L0 mse uqi sam scc,uni20.01000.2inf_miss,gen_list_boundary,boundary,cifar,,conv12,0.13978355846512033
+exp_1926,success_rate,L2 L0 mse uqi sam scc,uni20.01000.2inf_miss,gen_list_elastic,elastic,cifar,,conv12,0.13247310692801625
+exp_1926,success_rate,L2 L0 mse uqi sam scc,uni20.01000.2inf_miss,gen_list_newton,newton,cifar,,conv12,0.036762741834038146
+exp_1926,success_rate,L2 L0 mse uqi sam scc,uni20.01000.2inf_miss,gen_list_pgd,pgd,cifar,,conv12,0.0591315762629918
+exp_1926,success_rate,L2 L0 mse uqi sam scc,uni20.01000.2inf_miss,gen_list_zoo,zoo,cifar,,conv12,0.10337360155677802
+exp_1926,success_rate,L2 L0 mse uqi sam scc,uni20.01000.2inf_miss,gen_list_hopskip,hopskip,cifar,,conv12,0.13663278572010132
+exp_1926,success_rate,L2 L0 mse uqi sam scc,uni20.01000.2inf_miss,gen_list_jsma,jsma,cifar,,conv12,0.1094623938568761
+exp_1926,success_rate,L2 L0 mse uqi sam scc,uni20.01000.2inf_miss,gen_list_uni_inf,uni,cifar,,conv12,0.11640984314298614

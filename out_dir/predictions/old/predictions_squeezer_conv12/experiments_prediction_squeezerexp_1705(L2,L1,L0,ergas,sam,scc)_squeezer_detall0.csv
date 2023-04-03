@@ -1,0 +1,2 @@
+file_name,ACC,id,label,features,csv_name,attack,dataset_name,model_name
+all,0.8664915736485007,exp_1705,squeezer_det,L2 L1 L0 ergas sam scc,all,all,cifar,conv12

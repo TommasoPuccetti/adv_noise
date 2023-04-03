@@ -1,0 +1,13 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_3823,magnet_det,L2 L1 Linf L0 mse ergas scc vifp psnrb,uni20.01000.2inf_succ,gen_list_1,bim,cifar,,conv12,0.8312020460358056
+exp_3823,magnet_det,L2 L1 Linf L0 mse ergas scc vifp psnrb,uni20.01000.2inf_succ,gen_list_1,fgm,cifar,,conv12,0.9365079365079365
+exp_3823,magnet_det,L2 L1 Linf L0 mse ergas scc vifp psnrb,uni20.01000.2inf_succ,gen_list_1,deep,cifar,,conv12,0.7330677290836654
+exp_3823,magnet_det,L2 L1 Linf L0 mse ergas scc vifp psnrb,uni20.01000.2inf_succ,gen_list_3,cw2,cifar,,conv12,0.5813148788927336
+exp_3823,magnet_det,L2 L1 Linf L0 mse ergas scc vifp psnrb,uni20.01000.2inf_succ,gen_list_boundary,boundary,cifar,,conv12,0.9534534534534534
+exp_3823,magnet_det,L2 L1 Linf L0 mse ergas scc vifp psnrb,uni20.01000.2inf_succ,gen_list_elastic,elastic,cifar,,conv12,0.9894419306184012
+exp_3823,magnet_det,L2 L1 Linf L0 mse ergas scc vifp psnrb,uni20.01000.2inf_succ,gen_list_newton,newton,cifar,,conv12,0.8235294117647058
+exp_3823,magnet_det,L2 L1 Linf L0 mse ergas scc vifp psnrb,uni20.01000.2inf_succ,gen_list_pgd,pgd,cifar,,conv12,0.9907120743034056
+exp_3823,magnet_det,L2 L1 Linf L0 mse ergas scc vifp psnrb,uni20.01000.2inf_succ,gen_list_zoo,zoo,cifar,,conv12,0.9753086419753086
+exp_3823,magnet_det,L2 L1 Linf L0 mse ergas scc vifp psnrb,uni20.01000.2inf_succ,gen_list_hopskip,hopskip,cifar,,conv12,0.9004524886877828
+exp_3823,magnet_det,L2 L1 Linf L0 mse ergas scc vifp psnrb,uni20.01000.2inf_succ,gen_list_jsma,jsma,cifar,,conv12,0.87518573551263
+exp_3823,magnet_det,L2 L1 Linf L0 mse ergas scc vifp psnrb,uni20.01000.2inf_succ,gen_list_uni_inf,uni,cifar,,conv12,0.9692307692307692

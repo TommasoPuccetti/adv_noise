@@ -1,0 +1,2 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_48,squeezer_det,L1 Linf ergas sam scc vifp rase,elastic9050.0_succ,gen_list_elastic,elastic,cifar,,conv12,0.9879336349924586

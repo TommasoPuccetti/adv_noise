@@ -1,0 +1,2 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC,test_shape,train_shape
+exp_114,squeezer_det,L1 Linf ergas sam scc vifp rase,boundary50000.0090.0825_succ,gen_list_boundary,boundary,cifar,conv12,0.9579579579579579,0.31553204850795963,666.0,2686.0

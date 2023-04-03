@@ -1,0 +1,19 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC
+exp_61,squeezer_det,L1 Linf ergas sam scc vifp rase,pgd0.1100_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_61,squeezer_det,L1 Linf ergas sam scc vifp rase,pgd0.03100_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_61,squeezer_det,L1 Linf ergas sam scc vifp rase,pgd0.05100_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_61,squeezer_det,L1 Linf ergas sam scc vifp rase,pgd0.07100_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_61,squeezer_det,L1 Linf ergas sam scc vifp rase,pgd0.09100_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_61,squeezer_det,L1 Linf ergas sam scc vifp rase,pgd1.0100_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_61,squeezer_det,L1 Linf ergas sam scc vifp rase,pgd3.0100_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_61,squeezer_det,L1 Linf ergas sam scc vifp rase,pgd5.0100_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_61,squeezer_det,L1 Linf ergas sam scc vifp rase,pgd7.0100_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_61,squeezer_det,L1 Linf ergas sam scc vifp rase,pgd9.0100_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_61,squeezer_det,L1 Linf ergas sam scc vifp rase,pgd0.110_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_61,squeezer_det,L1 Linf ergas sam scc vifp rase,pgd0.130_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_61,squeezer_det,L1 Linf ergas sam scc vifp rase,pgd0.150_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_61,squeezer_det,L1 Linf ergas sam scc vifp rase,pgd0.170_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_61,squeezer_det,L1 Linf ergas sam scc vifp rase,pgd0.190_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_61,squeezer_det,L1 Linf ergas sam scc vifp rase,pgd0.1150_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_61,squeezer_det,L1 Linf ergas sam scc vifp rase,pgd0.1200_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_61,squeezer_det,L1 Linf ergas sam scc vifp rase,pgd0.1300_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0

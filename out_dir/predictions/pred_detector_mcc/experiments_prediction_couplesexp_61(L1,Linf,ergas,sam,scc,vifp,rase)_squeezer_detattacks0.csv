@@ -1,0 +1,2 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC,test_shape,train_shape
+exp_61,squeezer_det,L1 Linf ergas sam scc vifp rase,pgd0.1300_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0,323.0,2652.0

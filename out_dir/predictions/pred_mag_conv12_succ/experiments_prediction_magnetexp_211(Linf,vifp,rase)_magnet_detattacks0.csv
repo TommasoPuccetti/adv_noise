@@ -1,0 +1,13 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_211,magnet_det,Linf vifp rase,uni20.01000.2inf_succ,gen_list_1,bim,cifar,,conv12,0.7289002557544757
+exp_211,magnet_det,Linf vifp rase,uni20.01000.2inf_succ,gen_list_1,fgm,cifar,,conv12,0.8412698412698413
+exp_211,magnet_det,Linf vifp rase,uni20.01000.2inf_succ,gen_list_1,deep,cifar,,conv12,0.6533864541832669
+exp_211,magnet_det,Linf vifp rase,uni20.01000.2inf_succ,gen_list_3,cw2,cifar,,conv12,0.5224913494809689
+exp_211,magnet_det,Linf vifp rase,uni20.01000.2inf_succ,gen_list_boundary,boundary,cifar,,conv12,0.948948948948949
+exp_211,magnet_det,Linf vifp rase,uni20.01000.2inf_succ,gen_list_elastic,elastic,cifar,,conv12,0.8748114630467572
+exp_211,magnet_det,Linf vifp rase,uni20.01000.2inf_succ,gen_list_newton,newton,cifar,,conv12,0.7647058823529411
+exp_211,magnet_det,Linf vifp rase,uni20.01000.2inf_succ,gen_list_pgd,pgd,cifar,,conv12,0.9287925696594427
+exp_211,magnet_det,Linf vifp rase,uni20.01000.2inf_succ,gen_list_zoo,zoo,cifar,,conv12,0.8827160493827161
+exp_211,magnet_det,Linf vifp rase,uni20.01000.2inf_succ,gen_list_hopskip,hopskip,cifar,,conv12,0.9230769230769231
+exp_211,magnet_det,Linf vifp rase,uni20.01000.2inf_succ,gen_list_jsma,jsma,cifar,,conv12,0.8335809806835067
+exp_211,magnet_det,Linf vifp rase,uni20.01000.2inf_succ,gen_list_uni_inf,uni,cifar,,conv12,0.9346153846153846

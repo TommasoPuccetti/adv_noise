@@ -1,0 +1,2 @@
+file_name,ACC,id,label,features,csv_name,attack,dataset_name,model_name
+all,0.0467101553679285,exp_1649,success_rate,L2 L1 Linf ergas sam scc,all,all,cifar,conv12

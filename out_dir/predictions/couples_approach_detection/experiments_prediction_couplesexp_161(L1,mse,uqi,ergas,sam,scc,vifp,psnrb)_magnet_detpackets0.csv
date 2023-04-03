@@ -1,0 +1,11 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_161,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,zoo11010.0_succ,gen_list_zoo,zoo,cifar,,conv12,1.0
+exp_161,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,zoo12010.0_succ,gen_list_zoo,zoo,cifar,,conv12,1.0
+exp_161,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,zoo13010.0_succ,gen_list_zoo,zoo,cifar,,conv12,1.0
+exp_161,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,zoo14010.0_succ,gen_list_zoo,zoo,cifar,,conv12,1.0
+exp_161,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,zoo15010.0_succ,gen_list_zoo,zoo,cifar,,conv12,1.0
+exp_161,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,zoo16010.0_succ,gen_list_zoo,zoo,cifar,,conv12,1.0
+exp_161,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,zoo17010.0_succ,gen_list_zoo,zoo,cifar,,conv12,0.9411764705882353
+exp_161,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,zoo18010.0_succ,gen_list_zoo,zoo,cifar,,conv12,1.0
+exp_161,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,zoo19010.0_succ,gen_list_zoo,zoo,cifar,,conv12,1.0
+exp_161,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,zoo20010.0_succ,gen_list_zoo,zoo,cifar,,conv12,1.0

@@ -1,0 +1,13 @@
+file,features,label,ACC,file_name
+,L2 L1 Linf uqi sam rase psnrb,success_rate,0.1657228555824864,"experiments_loo_success_rateexp_11(L2,L1,Linf,uqi,sam,rase,psnrb)_success_rateall0.csv"
+,L2 L1 Linf uqi sam rase psnrb,success_rate,0.1606314174856078,"experiments_loo_success_rateexp_8(L2,L1,Linf,uqi,sam,rase,psnrb)_success_rateall0.csv"
+,L2 L1 Linf uqi sam rase psnrb,success_rate,0.1512818506474553,"experiments_loo_success_rateexp_2(L2,L1,Linf,uqi,sam,rase,psnrb)_success_rateall0.csv"
+,L2 L1 Linf uqi sam rase psnrb,success_rate,0.1624437658996864,"experiments_loo_success_rateexp_6(L2,L1,Linf,uqi,sam,rase,psnrb)_success_rateall0.csv"
+,L2 L1 Linf uqi sam rase psnrb,success_rate,0.1605377443532483,"experiments_loo_success_rateexp_3(L2,L1,Linf,uqi,sam,rase,psnrb)_success_rateall0.csv"
+,L2 L1 Linf uqi sam rase psnrb,success_rate,0.5289393865069366,"experiments_loo_success_rateexp_5(L2,L1,Linf,uqi,sam,rase,psnrb)_success_rateall0.csv"
+,L2 L1 Linf uqi sam rase psnrb,success_rate,0.1606314174856078,"experiments_loo_success_rateexp_9(L2,L1,Linf,uqi,sam,rase,psnrb)_success_rateall0.csv"
+,L2 L1 Linf uqi sam rase psnrb,success_rate,0.1674766893435808,"experiments_loo_success_rateexp_4(L2,L1,Linf,uqi,sam,rase,psnrb)_success_rateall0.csv"
+,L2 L1 Linf uqi sam rase psnrb,success_rate,0.5003980574548075,"experiments_loo_success_rateexp_0(L2,L1,Linf,uqi,sam,rase,psnrb)_success_rateall0.csv"
+,L2 L1 Linf uqi sam rase psnrb,success_rate,0.5726956701601192,"experiments_loo_success_rateexp_10(L2,L1,Linf,uqi,sam,rase,psnrb)_success_rateall0.csv"
+,L2 L1 Linf uqi sam rase psnrb,success_rate,0.1510957936165158,"experiments_loo_success_rateexp_7(L2,L1,Linf,uqi,sam,rase,psnrb)_success_rateall0.csv"
+,L2 L1 Linf uqi sam rase psnrb,success_rate,0.1647813703993446,"experiments_loo_success_rateexp_1(L2,L1,Linf,uqi,sam,rase,psnrb)_success_rateall0.csv"

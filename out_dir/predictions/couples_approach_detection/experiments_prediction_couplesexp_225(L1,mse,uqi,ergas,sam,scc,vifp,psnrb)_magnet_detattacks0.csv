@@ -1,0 +1,2 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_225,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,elastic9050.0_succ,gen_list_elastic,elastic,cifar,,conv12,0.9411764705882353

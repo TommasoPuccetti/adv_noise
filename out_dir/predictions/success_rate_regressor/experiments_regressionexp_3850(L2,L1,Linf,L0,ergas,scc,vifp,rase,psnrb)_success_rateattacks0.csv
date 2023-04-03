@@ -1,0 +1,13 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_3850,success_rate,L2 L1 Linf L0 ergas scc vifp rase psnrb,uni20.01000.2inf_miss,gen_list_1,bim,cifar,,conv12,0.008708576175715056
+exp_3850,success_rate,L2 L1 Linf L0 ergas scc vifp rase psnrb,uni20.01000.2inf_miss,gen_list_1,fgm,cifar,,conv12,0.014426225827969024
+exp_3850,success_rate,L2 L1 Linf L0 ergas scc vifp rase psnrb,uni20.01000.2inf_miss,gen_list_1,deep,cifar,,conv12,0.09795505354755138
+exp_3850,success_rate,L2 L1 Linf L0 ergas scc vifp rase psnrb,uni20.01000.2inf_miss,gen_list_3,cw2,cifar,,conv12,0.04981542571205754
+exp_3850,success_rate,L2 L1 Linf L0 ergas scc vifp rase psnrb,uni20.01000.2inf_miss,gen_list_boundary,boundary,cifar,,conv12,0.029222895375394402
+exp_3850,success_rate,L2 L1 Linf L0 ergas scc vifp rase psnrb,uni20.01000.2inf_miss,gen_list_elastic,elastic,cifar,,conv12,0.022587919144911837
+exp_3850,success_rate,L2 L1 Linf L0 ergas scc vifp rase psnrb,uni20.01000.2inf_miss,gen_list_newton,newton,cifar,,conv12,0.015157493138069526
+exp_3850,success_rate,L2 L1 Linf L0 ergas scc vifp rase psnrb,uni20.01000.2inf_miss,gen_list_pgd,pgd,cifar,,conv12,0.005975911149732022
+exp_3850,success_rate,L2 L1 Linf L0 ergas scc vifp rase psnrb,uni20.01000.2inf_miss,gen_list_zoo,zoo,cifar,,conv12,0.06215523090408298
+exp_3850,success_rate,L2 L1 Linf L0 ergas scc vifp rase psnrb,uni20.01000.2inf_miss,gen_list_hopskip,hopskip,cifar,,conv12,0.02103294462948226
+exp_3850,success_rate,L2 L1 Linf L0 ergas scc vifp rase psnrb,uni20.01000.2inf_miss,gen_list_jsma,jsma,cifar,,conv12,0.06995644898248192
+exp_3850,success_rate,L2 L1 Linf L0 ergas scc vifp rase psnrb,uni20.01000.2inf_miss,gen_list_uni_inf,uni,cifar,,conv12,0.027847866496094442

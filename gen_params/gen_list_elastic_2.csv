@@ -1,0 +1,5 @@
+attack,confidence,max_iter,batch_size,epsilon,epsilon_step,delta,norm,theta,gamma,eta,max_eval,init_eval,init_size,num_trial
+elastic,0.1,10.0,500,,,,,,,,,,,
+elastic,0.1,30.0,500,,,,,,,,,,,
+elastic,5,1000,500,,,,,,,,,,,
+elastic,10,2000,500,,,,,,,,,,,

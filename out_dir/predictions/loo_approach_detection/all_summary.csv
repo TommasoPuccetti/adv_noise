@@ -1,0 +1,25 @@
+file,features,label,ACC,file_name,
+,L1 Linf ergas sam scc vifp rase,squeezer_det,0.7493606138107417,"experiments_prediction_looexp_0(L1,Linf,ergas,sam,scc,vifp,rase)_squeezer_detall0.csv",bim
+,L1 Linf ergas sam scc vifp rase,squeezer_det,0.951951951951952,"experiments_prediction_looexp_1(L1,Linf,ergas,sam,scc,vifp,rase)_squeezer_detall0.csv",boundary
+,L1 Linf ergas sam scc vifp rase,squeezer_det,0.6961538461538461,"experiments_prediction_looexp_10(L1,Linf,ergas,sam,scc,vifp,rase)_squeezer_detall0.csv",uni
+,L1 Linf ergas sam scc vifp rase,squeezer_det,0.9197530864197532,"experiments_prediction_looexp_11(L1,Linf,ergas,sam,scc,vifp,rase)_squeezer_detall0.csv",zoo
+,L1 mse uqi ergas sam scc vifp psnrb,magnet_det,0.8107416879795396,"experiments_prediction_looexp_12(L1,mse,uqi,ergas,sam,scc,vifp,psnrb)_magnet_detall0.csv",bim
+,L1 mse uqi ergas sam scc vifp psnrb,magnet_det,0.9684684684684683,"experiments_prediction_looexp_13(L1,mse,uqi,ergas,sam,scc,vifp,psnrb)_magnet_detall0.csv",boundary
+,L1 mse uqi ergas sam scc vifp psnrb,magnet_det,0.4775086505190311,"experiments_prediction_looexp_14(L1,mse,uqi,ergas,sam,scc,vifp,psnrb)_magnet_detall0.csv",cw2
+,L1 mse uqi ergas sam scc vifp psnrb,magnet_det,0.5219123505976095,"experiments_prediction_looexp_15(L1,mse,uqi,ergas,sam,scc,vifp,psnrb)_magnet_detall0.csv",deep
+,L1 mse uqi ergas sam scc vifp psnrb,magnet_det,0.9532428355957768,"experiments_prediction_looexp_16(L1,mse,uqi,ergas,sam,scc,vifp,psnrb)_magnet_detall0.csv",elastic
+,L1 mse uqi ergas sam scc vifp psnrb,magnet_det,0.6825396825396826,"experiments_prediction_looexp_17(L1,mse,uqi,ergas,sam,scc,vifp,psnrb)_magnet_detall0.csv",fgm
+,L1 mse uqi ergas sam scc vifp psnrb,magnet_det,0.9253393665158371,"experiments_prediction_looexp_18(L1,mse,uqi,ergas,sam,scc,vifp,psnrb)_magnet_detall0.csv",hopskip
+,L1 mse uqi ergas sam scc vifp psnrb,magnet_det,0.8306092124814265,"experiments_prediction_looexp_19(L1,mse,uqi,ergas,sam,scc,vifp,psnrb)_magnet_detall0.csv",jsma
+,L1 Linf ergas sam scc vifp rase,squeezer_det,0.2664359861591695,"experiments_prediction_looexp_2(L1,Linf,ergas,sam,scc,vifp,rase)_squeezer_detall0.csv",bim
+,L1 mse uqi ergas sam scc vifp psnrb,magnet_det,0.8544891640866873,"experiments_prediction_looexp_20(L1,mse,uqi,ergas,sam,scc,vifp,psnrb)_magnet_detall0.csv",newton
+,L1 mse uqi ergas sam scc vifp psnrb,magnet_det,0.934984520123839,"experiments_prediction_looexp_21(L1,mse,uqi,ergas,sam,scc,vifp,psnrb)_magnet_detall0.csv",pgd
+,L1 mse uqi ergas sam scc vifp psnrb,magnet_det,0.6576923076923077,"experiments_prediction_looexp_22(L1,mse,uqi,ergas,sam,scc,vifp,psnrb)_magnet_detall0.csv",uni
+,L1 mse uqi ergas sam scc vifp psnrb,magnet_det,0.8518518518518519,"experiments_prediction_looexp_23(L1,mse,uqi,ergas,sam,scc,vifp,psnrb)_magnet_detall0.csv",zoo
+,L1 Linf ergas sam scc vifp rase,squeezer_det,0.5617529880478087,"experiments_prediction_looexp_3(L1,Linf,ergas,sam,scc,vifp,rase)_squeezer_detall0.csv",deep
+,L1 Linf ergas sam scc vifp rase,squeezer_det,1.0,"experiments_prediction_looexp_4(L1,Linf,ergas,sam,scc,vifp,rase)_squeezer_detall0.csv",elastic
+,L1 Linf ergas sam scc vifp rase,squeezer_det,0.7777777777777778,"experiments_prediction_looexp_5(L1,Linf,ergas,sam,scc,vifp,rase)_squeezer_detall0.csv",fgm
+,L1 Linf ergas sam scc vifp rase,squeezer_det,0.9751131221719456,"experiments_prediction_looexp_6(L1,Linf,ergas,sam,scc,vifp,rase)_squeezer_detall0.csv",hopskip
+,L1 Linf ergas sam scc vifp rase,squeezer_det,0.6389301634472511,"experiments_prediction_looexp_7(L1,Linf,ergas,sam,scc,vifp,rase)_squeezer_detall0.csv",jsma
+,L1 Linf ergas sam scc vifp rase,squeezer_det,0.7368421052631579,"experiments_prediction_looexp_8(L1,Linf,ergas,sam,scc,vifp,rase)_squeezer_detall0.csv",cw2
+,L1 Linf ergas sam scc vifp rase,squeezer_det,0.8792569659442725,"experiments_prediction_looexp_9(L1,Linf,ergas,sam,scc,vifp,rase)_squeezer_detall0.csv",pgd

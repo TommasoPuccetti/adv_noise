@@ -1,0 +1,13 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_123,magnet_det,L2 sam scc,uni20.01000.2inf_succ,gen_list_1,bim,cifar,,conv12,0.80306905370844
+exp_123,magnet_det,L2 sam scc,uni20.01000.2inf_succ,gen_list_1,fgm,cifar,,conv12,0.8650793650793651
+exp_123,magnet_det,L2 sam scc,uni20.01000.2inf_succ,gen_list_1,deep,cifar,,conv12,0.852589641434263
+exp_123,magnet_det,L2 sam scc,uni20.01000.2inf_succ,gen_list_3,cw2,cifar,,conv12,0.4463667820069204
+exp_123,magnet_det,L2 sam scc,uni20.01000.2inf_succ,gen_list_boundary,boundary,cifar,,conv12,0.8768768768768769
+exp_123,magnet_det,L2 sam scc,uni20.01000.2inf_succ,gen_list_elastic,elastic,cifar,,conv12,0.9849170437405732
+exp_123,magnet_det,L2 sam scc,uni20.01000.2inf_succ,gen_list_newton,newton,cifar,,conv12,0.8235294117647058
+exp_123,magnet_det,L2 sam scc,uni20.01000.2inf_succ,gen_list_pgd,pgd,cifar,,conv12,0.9226006191950464
+exp_123,magnet_det,L2 sam scc,uni20.01000.2inf_succ,gen_list_zoo,zoo,cifar,,conv12,0.9506172839506173
+exp_123,magnet_det,L2 sam scc,uni20.01000.2inf_succ,gen_list_hopskip,hopskip,cifar,,conv12,0.8393665158371041
+exp_123,magnet_det,L2 sam scc,uni20.01000.2inf_succ,gen_list_jsma,jsma,cifar,,conv12,0.7904903417533432
+exp_123,magnet_det,L2 sam scc,uni20.01000.2inf_succ,gen_list_uni_inf,uni,cifar,,conv12,0.9576923076923077

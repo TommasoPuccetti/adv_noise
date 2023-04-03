@@ -1,0 +1,16 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC
+exp_123,squeezer_det,L1 Linf ergas sam scc vifp rase,deep10.0100_succ,gen_list_1,deep,cifar,conv12,0.9375,0.0
+exp_123,squeezer_det,L1 Linf ergas sam scc vifp rase,deep8.0100_succ,gen_list_1,deep,cifar,conv12,0.95,-0.022207604741790184
+exp_123,squeezer_det,L1 Linf ergas sam scc vifp rase,deep6.0100_succ,gen_list_1,deep,cifar,conv12,0.9523809523809523,-0.021124141684149264
+exp_123,squeezer_det,L1 Linf ergas sam scc vifp rase,deep4.0100_succ,gen_list_1,deep,cifar,conv12,0.927710843373494,-0.03535810151892134
+exp_123,squeezer_det,L1 Linf ergas sam scc vifp rase,deep2.0100_succ,gen_list_1,deep,cifar,conv12,0.9529411764705882,0.0
+exp_123,squeezer_det,L1 Linf ergas sam scc vifp rase,deep0.0100_succ,gen_list_1,deep,cifar,conv12,0.9859154929577465,0.0
+exp_123,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.010_succ,gen_list_1,deep,cifar,conv12,0.9761904761904762,0.5703518254720301
+exp_123,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.030_succ,gen_list_1,deep,cifar,conv12,0.9761904761904762,0.5703518254720301
+exp_123,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.050_succ,gen_list_1,deep,cifar,conv12,0.9761904761904762,0.5703518254720301
+exp_123,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.070_succ,gen_list_1,deep,cifar,conv12,0.9761904761904762,0.5703518254720301
+exp_123,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.090_succ,gen_list_1,deep,cifar,conv12,0.9761904761904762,0.5703518254720301
+exp_123,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.0100_succ,gen_list_1,deep,cifar,conv12,0.9761904761904762,0.5703518254720301
+exp_123,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.0150_succ,gen_list_1,deep,cifar,conv12,0.9761904761904762,0.5703518254720301
+exp_123,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.0200_succ,gen_list_1,deep,cifar,conv12,0.9761904761904762,0.5703518254720301
+exp_123,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.0300_succ,gen_list_1,deep,cifar,conv12,0.9761904761904762,0.5703518254720301

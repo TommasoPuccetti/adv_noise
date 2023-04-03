@@ -1,0 +1,19 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC
+exp_160,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,pgd0.1100_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_160,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,pgd0.03100_succ,gen_list_pgd,pgd,cifar,conv12,0.011764705882352941,0.0
+exp_160,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,pgd0.05100_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_160,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,pgd0.07100_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_160,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,pgd0.09100_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_160,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,pgd1.0100_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_160,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,pgd3.0100_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_160,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,pgd5.0100_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_160,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,pgd7.0100_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_160,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,pgd9.0100_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_160,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,pgd0.110_succ,gen_list_pgd,pgd,cifar,conv12,0.023529411764705882,0.0
+exp_160,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,pgd0.130_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_160,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,pgd0.150_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_160,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,pgd0.170_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_160,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,pgd0.190_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_160,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,pgd0.1150_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_160,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,pgd0.1200_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0
+exp_160,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,pgd0.1300_succ,gen_list_pgd,pgd,cifar,conv12,0.0,0.0

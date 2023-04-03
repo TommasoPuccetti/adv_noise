@@ -1,0 +1,20 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_49,success_rate,L2 L1 Linf uqi sam rase psnrb,newton0.1100_succ,gen_list_newton,newton,cifar,,conv12,0.027726563248756744
+exp_49,success_rate,L2 L1 Linf uqi sam rase psnrb,newton0.03100_succ,gen_list_newton,newton,cifar,,conv12,0.027726563248756744
+exp_49,success_rate,L2 L1 Linf uqi sam rase psnrb,newton0.05100_succ,gen_list_newton,newton,cifar,,conv12,0.027726563248756744
+exp_49,success_rate,L2 L1 Linf uqi sam rase psnrb,newton0.07100_succ,gen_list_newton,newton,cifar,,conv12,0.027726563248756744
+exp_49,success_rate,L2 L1 Linf uqi sam rase psnrb,newton0.09100_succ,gen_list_newton,newton,cifar,,conv12,0.027726563248756744
+exp_49,success_rate,L2 L1 Linf uqi sam rase psnrb,newton1.0100_succ,gen_list_newton,newton,cifar,,conv12,0.027726563248756744
+exp_49,success_rate,L2 L1 Linf uqi sam rase psnrb,newton3.0100_succ,gen_list_newton,newton,cifar,,conv12,0.027726563248756744
+exp_49,success_rate,L2 L1 Linf uqi sam rase psnrb,newton5.0100_succ,gen_list_newton,newton,cifar,,conv12,0.027726563248756744
+exp_49,success_rate,L2 L1 Linf uqi sam rase psnrb,newton7.0100_succ,gen_list_newton,newton,cifar,,conv12,0.027726563248756744
+exp_49,success_rate,L2 L1 Linf uqi sam rase psnrb,newton9.0100_succ,gen_list_newton,newton,cifar,,conv12,0.027726563248756744
+exp_49,success_rate,L2 L1 Linf uqi sam rase psnrb,newton0.0110_succ,gen_list_newton,newton,cifar,,conv12,0.029696651021761493
+exp_49,success_rate,L2 L1 Linf uqi sam rase psnrb,newton0.0130_succ,gen_list_newton,newton,cifar,,conv12,0.029696651021761493
+exp_49,success_rate,L2 L1 Linf uqi sam rase psnrb,newton0.0150_succ,gen_list_newton,newton,cifar,,conv12,0.029696651021761493
+exp_49,success_rate,L2 L1 Linf uqi sam rase psnrb,newton0.0170_succ,gen_list_newton,newton,cifar,,conv12,0.029696651021761493
+exp_49,success_rate,L2 L1 Linf uqi sam rase psnrb,newton0.0190_succ,gen_list_newton,newton,cifar,,conv12,0.029696651021761493
+exp_49,success_rate,L2 L1 Linf uqi sam rase psnrb,newton0.01100_succ,gen_list_newton,newton,cifar,,conv12,0.029696651021761493
+exp_49,success_rate,L2 L1 Linf uqi sam rase psnrb,newton0.01150_succ,gen_list_newton,newton,cifar,,conv12,0.029696651021761493
+exp_49,success_rate,L2 L1 Linf uqi sam rase psnrb,newton0.01200_succ,gen_list_newton,newton,cifar,,conv12,0.029696651021761493
+exp_49,success_rate,L2 L1 Linf uqi sam rase psnrb,newton0.01300_succ,gen_list_newton,newton,cifar,,conv12,0.029696651021761493

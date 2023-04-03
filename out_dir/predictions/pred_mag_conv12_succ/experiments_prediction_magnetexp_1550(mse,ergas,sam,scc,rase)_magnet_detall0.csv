@@ -1,0 +1,2 @@
+file_name,ACC,id,label,features,csv_name,attack,dataset_name,model_name
+all,0.8553293937404246,exp_1550,magnet_det,mse ergas sam scc rase,all,all,cifar,conv12

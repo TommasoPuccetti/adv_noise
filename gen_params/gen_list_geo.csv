@@ -1,0 +1,2 @@
+attack,confidence,max_iter,batch_size,epsilon,epsilon_step,delta,norm,theta,gamma,eta,max_eval,init_eval,init_size,num_trial
+geo,,4000,500,1,,,,,,,,,,

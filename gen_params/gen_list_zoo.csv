@@ -1,0 +1,10 @@
+attack,confidence,max_iter,batch_size,epsilon,epsilon_step,delta,norm,theta,gamma,eta,max_eval,init_eval,init_size,sample_size,num_trial,max_trasl,max_rot
+zoo,10,120,500,,,,,,,,,,,,,,
+zoo,10,130,500,,,,,,,,,,,,,,
+zoo,10,140,500,,,,,,,,,,,,,,
+zoo,10,150,500,,,,,,,,,,,,,,
+zoo,10,160,500,,,,,,,,,,,,,,
+zoo,10,170,500,,,,,,,,,,,,,,
+zoo,10,180,500,,,,,,,,,,,,,,
+zoo,10,190,500,,,,,,,,,,,,,,
+zoo,10,200,500,,,,,,,,,,,,,,

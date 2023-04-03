@@ -1,0 +1,2 @@
+file_name,ACC,R2,id,label,features,csv_name,attack,dataset_name,model_name
+all,0.10855434100546972,0.30282905676383154,exp_110,success_rate,L2 L1 Linf uqi sam rase psnrb,all,all,cifar,conv12

@@ -1,0 +1,26 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.10.1_succ,gen_list_1,bim,cifar,conv12,0.36470588235294116,-0.09783488672414856
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.10.3_succ,gen_list_1,bim,cifar,conv12,0.7142857142857143,-0.16396399353660115
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.10.5_succ,gen_list_1,bim,cifar,conv12,0.7142857142857143,-0.16396399353660115
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.10.7_succ,gen_list_1,bim,cifar,conv12,0.7142857142857143,-0.16396399353660115
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.10.9_succ,gen_list_1,bim,cifar,conv12,0.7142857142857143,-0.16396399353660115
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.10.01_succ,gen_list_1,bim,cifar,conv12,0.47058823529411764,0.0
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.10.03_succ,gen_list_1,bim,cifar,conv12,0.16470588235294117,0.0
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.10.05_succ,gen_list_1,bim,cifar,conv12,0.15294117647058825,0.0
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.10.07_succ,gen_list_1,bim,cifar,conv12,0.1411764705882353,0.05668202012651358
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.10.09_succ,gen_list_1,bim,cifar,conv12,0.3058823529411765,-0.09259731658395265
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.10.001_succ,gen_list_1,bim,cifar,conv12,0.9764705882352941,0.0
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.10.003_succ,gen_list_1,bim,cifar,conv12,0.9411764705882353,0.0
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.10.005_succ,gen_list_1,bim,cifar,conv12,0.7411764705882353,0.0
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.10.007_succ,gen_list_1,bim,cifar,conv12,0.6,0.0
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.10.009_succ,gen_list_1,bim,cifar,conv12,0.4823529411764706,0.0
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.010.1_succ,gen_list_1,bim,cifar,conv12,0.38235294117647056,0.03760589215566125
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.030.1_succ,gen_list_1,bim,cifar,conv12,0.5061728395061729,0.001964488688526342
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.050.1_succ,gen_list_1,bim,cifar,conv12,0.3076923076923077,-0.06759225880448438
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.070.1_succ,gen_list_1,bim,cifar,conv12,0.47058823529411764,-0.013094570021973102
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.090.1_succ,gen_list_1,bim,cifar,conv12,0.4,-0.1835427559518799
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.0010.1_succ,gen_list_1,bim,cifar,conv12,1.0,0.0
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.0030.1_succ,gen_list_1,bim,cifar,conv12,0.7941176470588235,-0.11359236684941297
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.0050.1_succ,gen_list_1,bim,cifar,conv12,0.5769230769230769,0.06639061303092922
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.0070.1_succ,gen_list_1,bim,cifar,conv12,0.4262295081967213,0.20516717325227962
+exp_231,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,bim0.0090.1_succ,gen_list_1,bim,cifar,conv12,0.2647058823529412,-0.17538407320066007

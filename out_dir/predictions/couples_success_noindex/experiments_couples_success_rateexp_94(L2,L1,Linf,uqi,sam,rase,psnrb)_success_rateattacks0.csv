@@ -1,0 +1,2 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,R2
+exp_94,success_rate,L2 L1 Linf uqi sam rase psnrb,newton0.01300_succ,gen_list_newton,newton,cifar,conv12,0.11769924726327925,0.0

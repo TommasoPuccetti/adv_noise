@@ -1,0 +1,16 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC
+exp_101,squeezer_det,L1 Linf ergas sam scc vifp rase,deep10.0100_succ,gen_list_1,deep,cifar,conv12,0.2625,0.12909944487358058
+exp_101,squeezer_det,L1 Linf ergas sam scc vifp rase,deep8.0100_succ,gen_list_1,deep,cifar,conv12,0.2125,0.09090909090909091
+exp_101,squeezer_det,L1 Linf ergas sam scc vifp rase,deep6.0100_succ,gen_list_1,deep,cifar,conv12,0.30952380952380953,0.11817268913157446
+exp_101,squeezer_det,L1 Linf ergas sam scc vifp rase,deep4.0100_succ,gen_list_1,deep,cifar,conv12,0.3855421686746988,0.05219869200638817
+exp_101,squeezer_det,L1 Linf ergas sam scc vifp rase,deep2.0100_succ,gen_list_1,deep,cifar,conv12,0.5058823529411764,-0.09820927516479826
+exp_101,squeezer_det,L1 Linf ergas sam scc vifp rase,deep0.0100_succ,gen_list_1,deep,cifar,conv12,0.9577464788732394,0.48916839052182665
+exp_101,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.010_succ,gen_list_1,deep,cifar,conv12,0.30952380952380953,0.11817268913157446
+exp_101,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.030_succ,gen_list_1,deep,cifar,conv12,0.30952380952380953,0.11817268913157446
+exp_101,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.050_succ,gen_list_1,deep,cifar,conv12,0.30952380952380953,0.11817268913157446
+exp_101,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.070_succ,gen_list_1,deep,cifar,conv12,0.30952380952380953,0.11817268913157446
+exp_101,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.090_succ,gen_list_1,deep,cifar,conv12,0.30952380952380953,0.11817268913157446
+exp_101,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.0100_succ,gen_list_1,deep,cifar,conv12,0.30952380952380953,0.11817268913157446
+exp_101,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.0150_succ,gen_list_1,deep,cifar,conv12,0.30952380952380953,0.11817268913157446
+exp_101,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.0200_succ,gen_list_1,deep,cifar,conv12,0.30952380952380953,0.11817268913157446
+exp_101,squeezer_det,L1 Linf ergas sam scc vifp rase,deep5.0300_succ,gen_list_1,deep,cifar,conv12,0.30952380952380953,0.11817268913157446

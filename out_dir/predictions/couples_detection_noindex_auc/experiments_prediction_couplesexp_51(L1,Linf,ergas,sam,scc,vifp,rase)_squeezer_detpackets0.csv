@@ -1,0 +1,11 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC
+exp_51,squeezer_det,L1 Linf ergas sam scc vifp rase,zoo11010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.8888888888888888,0.0
+exp_51,squeezer_det,L1 Linf ergas sam scc vifp rase,zoo12010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.8904109589041096,-0.05022547437530591
+exp_51,squeezer_det,L1 Linf ergas sam scc vifp rase,zoo13010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.92,-0.03106848830006
+exp_51,squeezer_det,L1 Linf ergas sam scc vifp rase,zoo14010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.8461538461538461,-0.07223151185146151
+exp_51,squeezer_det,L1 Linf ergas sam scc vifp rase,zoo15010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.9102564102564102,0.23285200704571254
+exp_51,squeezer_det,L1 Linf ergas sam scc vifp rase,zoo16010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.85,0.086710996952412
+exp_51,squeezer_det,L1 Linf ergas sam scc vifp rase,zoo17010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.8875,-0.05620501008809766
+exp_51,squeezer_det,L1 Linf ergas sam scc vifp rase,zoo18010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.9012345679012346,0.30652194347617945
+exp_51,squeezer_det,L1 Linf ergas sam scc vifp rase,zoo19010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.881578947368421,-0.052362890553231484
+exp_51,squeezer_det,L1 Linf ergas sam scc vifp rase,zoo20010.0_succ,gen_list_zoo,zoo,cifar,conv12,0.9102564102564102,-0.04649905549752771

@@ -1,0 +1,2 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC,test_shape,train_shape
+exp_202,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,boundary50000.0090.0825_succ,gen_list_boundary,boundary,cifar,conv12,0.7858646616541354,0.021829061817109658,3325.0,1615.0

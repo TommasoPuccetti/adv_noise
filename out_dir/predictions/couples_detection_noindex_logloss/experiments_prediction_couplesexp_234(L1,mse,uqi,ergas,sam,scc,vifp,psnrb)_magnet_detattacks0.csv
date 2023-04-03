@@ -1,0 +1,2 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC,test_shape,train_shape
+exp_234,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,cw210.01000_succ,gen_list_3,cw2,cifar,conv12,0.7414634146341463,0.32220350042159807,1435.0,2209.0

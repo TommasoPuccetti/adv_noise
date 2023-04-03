@@ -1,0 +1,13 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_nameACC,model_name,ACC
+exp_371,success_rate,L2 Linf sam rase,uni20.01000.2inf_miss,gen_list_1,bim,cifar,,conv12,0.013255534153996251
+exp_371,success_rate,L2 Linf sam rase,uni20.01000.2inf_miss,gen_list_1,fgm,cifar,,conv12,0.01616433884629984
+exp_371,success_rate,L2 Linf sam rase,uni20.01000.2inf_miss,gen_list_1,deep,cifar,,conv12,0.11451515558456848
+exp_371,success_rate,L2 Linf sam rase,uni20.01000.2inf_miss,gen_list_3,cw2,cifar,,conv12,0.0622016076224146
+exp_371,success_rate,L2 Linf sam rase,uni20.01000.2inf_miss,gen_list_boundary,boundary,cifar,,conv12,0.031122763520225
+exp_371,success_rate,L2 Linf sam rase,uni20.01000.2inf_miss,gen_list_elastic,elastic,cifar,,conv12,0.020596279165505254
+exp_371,success_rate,L2 Linf sam rase,uni20.01000.2inf_miss,gen_list_newton,newton,cifar,,conv12,0.02049701087205688
+exp_371,success_rate,L2 Linf sam rase,uni20.01000.2inf_miss,gen_list_pgd,pgd,cifar,,conv12,0.006515116392547177
+exp_371,success_rate,L2 Linf sam rase,uni20.01000.2inf_miss,gen_list_zoo,zoo,cifar,,conv12,0.06419099869186527
+exp_371,success_rate,L2 Linf sam rase,uni20.01000.2inf_miss,gen_list_hopskip,hopskip,cifar,,conv12,0.03484814706770194
+exp_371,success_rate,L2 Linf sam rase,uni20.01000.2inf_miss,gen_list_jsma,jsma,cifar,,conv12,0.06957961521033414
+exp_371,success_rate,L2 Linf sam rase,uni20.01000.2inf_miss,gen_list_uni_inf,uni,cifar,,conv12,0.029760280847849596

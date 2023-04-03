@@ -1,0 +1,16 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC
+exp_244,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep10.0100_succ,gen_list_1,deep,cifar,conv12,0.3125,0.019008292592489873
+exp_244,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep8.0100_succ,gen_list_1,deep,cifar,conv12,0.375,0.04809860702438819
+exp_244,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep6.0100_succ,gen_list_1,deep,cifar,conv12,0.34523809523809523,-0.050835965963388983
+exp_244,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep4.0100_succ,gen_list_1,deep,cifar,conv12,0.4578313253012048,-0.013299719378881627
+exp_244,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep2.0100_succ,gen_list_1,deep,cifar,conv12,0.7176470588235294,0.2141863363872582
+exp_244,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep0.0100_succ,gen_list_1,deep,cifar,conv12,0.9014084507042254,0.17149276758843932
+exp_244,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep5.010_succ,gen_list_1,deep,cifar,conv12,0.39285714285714285,-0.03426166963240027
+exp_244,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep5.030_succ,gen_list_1,deep,cifar,conv12,0.39285714285714285,-0.03426166963240027
+exp_244,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep5.050_succ,gen_list_1,deep,cifar,conv12,0.39285714285714285,-0.03426166963240027
+exp_244,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep5.070_succ,gen_list_1,deep,cifar,conv12,0.39285714285714285,-0.03426166963240027
+exp_244,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep5.090_succ,gen_list_1,deep,cifar,conv12,0.39285714285714285,-0.03426166963240027
+exp_244,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep5.0100_succ,gen_list_1,deep,cifar,conv12,0.39285714285714285,-0.03426166963240027
+exp_244,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep5.0150_succ,gen_list_1,deep,cifar,conv12,0.39285714285714285,-0.03426166963240027
+exp_244,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep5.0200_succ,gen_list_1,deep,cifar,conv12,0.39285714285714285,-0.03426166963240027
+exp_244,magnet_det,L1 mse uqi ergas sam scc vifp psnrb,deep5.0300_succ,gen_list_1,deep,cifar,conv12,0.39285714285714285,-0.03426166963240027

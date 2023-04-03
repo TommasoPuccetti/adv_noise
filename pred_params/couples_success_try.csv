@@ -1,0 +1,3 @@
+id,features,label,attack_train,attack_test
+exp_55,"L2,L1,Linf,uqi,sam,rase,psnrb",success_rate,elastic,bim
+exp_99,"L2,L1,Linf,uqi,sam,rase,psnrb",success_rate,hopskip,bim

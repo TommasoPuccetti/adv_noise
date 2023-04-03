@@ -1,0 +1,2 @@
+id,label,features,file_name,csv_name,attack,dataset_name,model_name,ACC,MCC,test_shape,train_shape
+exp_53,squeezer_det,L1 Linf ergas sam scc vifp rase,jsma0.0011.0_succ,gen_list_jsma,jsma,cifar,conv12,0.635010419767788,0.17183292602615377,3359.0,3325.0
